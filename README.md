@@ -1,8 +1,9 @@
 <h1 align="center">Hola, soy Ezequiel</h1>
 <h3 align="center">Estudiante de Desarrollo de Software | Enfocado en Android | Explorador de tecnología</h3>
 
----
+![Mi imagen](foto.png)
 
+---
 ## Sobre mí
 
 Estudiante de desarrollo de software
