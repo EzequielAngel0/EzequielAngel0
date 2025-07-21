@@ -10,7 +10,7 @@
 ## Sobre mí
 
 
-  ![Mi imagen](descarga(1).png)
+  ![Mi imagen](descarga (1).png)
 
 
 Estudiante de desarrollo de software
