@@ -1,12 +1,21 @@
 <h1 align="center">Hola, soy Ezequiel</h1>
-<h3 align="center">Estudiante de Desarrollo de Software | Enfocado en Android | Explorador de tecnología</h3>
+<h3 align="center">Estudiante de Desarrollo de Software | Enfocado en Android | Explorando la tecnología</h3>
 
 <p align="center">
-  <img src="[imagen.png](https://tenor.com/es-419/view/cat-guitar-meme-goofy-cat-meme-gif-7268809284997374999)" width="400">
+  <img src="img/cat-guitar.gif" width="50">
 </p>
 
 
 ---
+
+<p>
+  <img src="img/tu-foto.png" width="120" align="left" style="margin-right: 15px;">
+  <strong>Sobre mí</strong><br>
+  Soy estudiante de desarrollo de software, enfocado en aplicaciones móviles Android.<br>
+  Me gusta trabajar con Kotlin, Java, Firebase y diseño de sistemas electrónicos.<br>
+  Actualmente estoy aprendiendo a diseñar mis propias placas PCB.<br>
+</p>
+
 ## Sobre mí
 
 Estudiante de desarrollo de software
