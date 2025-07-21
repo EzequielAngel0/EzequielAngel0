@@ -8,7 +8,7 @@
 ---
 
 <p>
-  <img src="img/kasper-dancing.gif" width="230" align="left" style="margin-right: 15px;">
+  <img src="img/kasper-dancing.gif" width="85" align="left" style="margin-right: 15px;">
   <strong>About Me</strong><br>
   <li>I'm a software development student focused on Android mobile applications.<br>
   <li>I enjoy working with Kotlin, Java and Firebase.<br>
@@ -22,13 +22,13 @@
 <h3 align="center">Estudiante en Desarrollo de Software | Android | Español/Inglés</h3>
 
 <p align="center">
-  <img src="img/cat-guitar.gif" width="50">
+  <img src="img/cat-cat-meme.gif" width="50">
 </p>
 
 ---
 
 <p>
-  <img src="img/cat-meme-panic.webp" width="230" align="left" style="margin-right: 15px;">
+  <img src="img/cat-meme-panic.webp" width="200" align="left" style="margin-right: 15px;">
   <strong>Sobre mí</strong><br>
   <li>Soy estudiante de desarrollo de software, enfocado en aplicaciones móviles Android.<br>
   <li>Me gusta trabajar con Kotlin, Java y Firebase.<br>
