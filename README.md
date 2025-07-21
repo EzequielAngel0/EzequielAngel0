@@ -7,15 +7,11 @@
 
 ---
 
-## 📱 Sobre mí
+## Sobre mí
 
 ```c
-class Ezequiel {
-  String[] stack = {"Kotlin", "Java", "Python", "SQL", "C++", "HTML", "CSS"};
-  boolean androidDev = true;
-  boolean learningFirebase = true;
-  boolean enjoysElectronics = true;
-}
+![Logo Kotlin](https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png)
+
 Estudiante de desarrollo de software
 
 Me gusta hacer aplicaciones móviles con Kotlin y Java
