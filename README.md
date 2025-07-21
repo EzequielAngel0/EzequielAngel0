@@ -8,7 +8,7 @@
 ---
 
 <p>
-  <img src="img/kasper-dancing-gif" width="230" align="left" style="margin-right: 15px;">
+  <img src="img/kasper-dancing.gif" width="230" align="left" style="margin-right: 15px;">
   <strong>About Me</strong><br>
   <li>I'm a software development student focused on Android mobile applications.<br>
   <li>I enjoy working with Kotlin, Java and Firebase.<br>
