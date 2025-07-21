@@ -2,7 +2,7 @@
 <h3 align="center">Estudiante de Desarrollo de Software | Enfocado en Android | Explorador de tecnología</h3>
 
 <p align="center">
-  <img src="" width="400">
+  <img src="foto.png" width="400">
 </p>
 
 
