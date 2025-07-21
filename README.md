@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ezequiel</h1>
-<h2 align="center">Software Development Student | Android | English/Spanish</h2>
+<h2 align="center">Software Development Student | Android | BackEnd | English/Spanish</h2>
 
 <br>
 
@@ -23,7 +23,7 @@
 <br><hr><br>
 
 <h1 align="center">Hola, soy Ezequiel</h1>
-<h2 align="center">Estudiante en Desarrollo de Software | Android | Español/Inglés</h2>
+<h2 align="center">Estudiante en Desarrollo de Software | Android | BackEnd | Español/Inglés</h2>
 
 <br>
 
