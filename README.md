@@ -57,7 +57,7 @@
   <a href="https://discord.com/users/angelezequiel">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-  <a href="barbosalomeliangelezequiel@gmail.com">
+  <a href="mailto:barbosalomeliangelezequiel@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
