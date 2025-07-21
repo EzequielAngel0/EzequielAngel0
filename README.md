@@ -9,7 +9,6 @@
 
 ## Sobre mí
 
-```c
 ![Logo Kotlin](https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png)
 
 Estudiante de desarrollo de software
