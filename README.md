@@ -9,9 +9,9 @@
 
 ## Sobre mí
 
-<p align="center">
-  ![Mi imagen](descarga(1).png) width="400">
-</p>
+
+  ![Mi imagen](descarga(1).png)
+
 
 Estudiante de desarrollo de software
 
