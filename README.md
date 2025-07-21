@@ -2,7 +2,7 @@
 <h3 align="center">Estudiante de Desarrollo de Software | Enfocado en Android | Explorador de tecnología</h3>
 
 <p align="center">
-  <img src="imagen.png" width="400">
+  <img src="[imagen.png](https://tenor.com/es-419/view/cat-guitar-meme-goofy-cat-meme-gif-7268809284997374999)" width="400">
 </p>
 
 
