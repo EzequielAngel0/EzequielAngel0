@@ -1,17 +1,9 @@
 <h1 align="center">Hola, soy Ezequiel</h1>
 <h3 align="center">Estudiante de Desarrollo de Software | Enfocado en Android | Explorador de tecnología</h3>
 
-<p align="center">
-  <img src="https://media.tenor.com/0AV2zWjG54YAAAAC/hacker-hackerman.gif" width="400"/>
-</p>
-
 ---
 
 ## Sobre mí
-
-
-  ![Mi imagen](descarga (1).png)
-
 
 Estudiante de desarrollo de software
 
