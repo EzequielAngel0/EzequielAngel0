@@ -47,18 +47,21 @@
 <br><hr><br>
 
 <!-- Tarjeta de contacto -->
-<p align="center">
-  <a href="www.linkedin.com/in/angelezequiel">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://x.com/Ezequiel27Angel">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-  </a>
-  <a href="https://discord.com/users/angelezequiel">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-  <a href="mailto:barbosalomeliangelezequiel@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+<h2 align="center">📫 Contact Me / Contáctame</h2>
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="img/kasper-dancing.gif" width="100"> <!-- Cambia a tu gif/icono de contacto si gustas -->
+    </td>
+    <td style="padding-left: 15px;">
+      <ul style="list-style-position: inside; padding-left: 1em;">
+        <li>💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/angelezequiel" target="_blank">linkedin.com/in/angelezequiel</a></li>
+        <li>🐦 <strong>X (Twitter):</strong> <a href="https://x.com/Ezequiel27Angel" target="_blank">@Ezequiel27Angel</a></li>
+        <li>💬 <strong>Discord:</strong> <a href="https://discord.com/users/TUIDDISCORD" target="_blank">angelezequiel</li>
+        <li>📧 <strong>Email:</strong> <a href="mailto:barbosalomeliangelezequiel@gmail.com">barbosalomeliangelezequiel@gmail.com</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
