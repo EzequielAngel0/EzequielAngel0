@@ -7,6 +7,9 @@
 <a href="mailto:angelbarbosa@angelezequiel.dev"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://x.com/Ezequiel27Angel"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
 
+<br>
+
+<img src="https://img.shields.io/badge/Open_to_Work-2EA043?style=for-the-badge&logo=briefcase&logoColor=white" alt="Open to Work"/>
 <img src="https://komarev.com/ghpvc/?username=EzequielAngel0&style=flat-square&color=2b6fb5" alt="Profile views"/>
 
 </div>
@@ -89,6 +92,30 @@ Diseño y construyo ecosistemas tecnológicos completos y escalables, frecuentem
 <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="40"/>
 
 </div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+## Currently Learning &nbsp;/&nbsp; Aprendiendo
+
+<table>
+<tr>
+<td valign="top" width="40%">
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/><br>
+  <b>Beginner: Google Cloud Cybersecurity Certificate</b>
+</td>
+<td valign="top" width="60%">
+  Deepening cloud security through Google's professional certificate path:
+  <ul>
+    <li>Introduction to Security Principles in Cloud Computing</li>
+    <li>Strategies for Cloud Security Risk Management</li>
+    <li>Cloud Security Risks: Identify and Protect Against Threats</li>
+    <li>Detect, Respond, and Recover from Cloud Cybersecurity Attacks</li>
+    <li>Put It All Together: Prepare for a Cloud Security Analyst Job</li>
+  </ul>
+  Alongside <b>Python (FastAPI)</b> for backend microservices.
+</td>
+</tr>
+</table>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
