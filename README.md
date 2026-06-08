@@ -1,106 +1,114 @@
-<h1 align="center">Hi, I'm Ezequiel 👋</h1>
-<h2 align="center">Full Stack & Cross-Platform Developer | Backend Architect | Cybersecurity Enthusiast</h2>
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2B6FB5&center=true&vCenter=true&width=700&lines=Angel+Ezequiel+Barbosa+Lomeli;Full+Stack+%26+Cross-Platform+Developer;Backend+Architect;Cybersecurity+Enthusiast" alt="Typing SVG"/>
+
+<a href="https://www.linkedin.com/in/angelezequiel"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://ezequielangel0.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-2B6FB5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="mailto:angelbarbosa@angelezequiel.dev"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://x.com/Ezequiel27Angel"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+
+<img src="https://komarev.com/ghpvc/?username=EzequielAngel0&style=flat-square&color=2b6fb5" alt="Profile views"/>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+## About Me &nbsp;/&nbsp; Sobre mí
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+<b>EN</b>
+
+I design and ship scalable, end-to-end technological ecosystems — often solo. I work across the full stack: cross-platform apps with Flutter (offline-first), web interfaces with React, Angular and Next.js, and robust microservices backends in Go and Java (Spring Boot). Back-End graduate of the Oracle Next Education (ONE) program and Software Development student at CETI, with a growing focus on cybersecurity and cloud infrastructure.
+
+</td>
+<td valign="top" width="50%">
+
+<b>ES</b>
+
+Diseño y construyo ecosistemas tecnológicos completos y escalables, frecuentemente en solitario. Trabajo en todo el stack: apps multiplataforma con Flutter (offline-first), interfaces web con React, Angular y Next.js, y backends de microservicios robustos en Go y Java (Spring Boot). Graduado de la ruta Back-End del programa Oracle Next Education (ONE) y estudiante de Desarrollo de Software en el CETI, con enfoque creciente en ciberseguridad e infraestructura en la nube.
+
+</td>
+</tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+## Featured Projects &nbsp;/&nbsp; Proyectos Destacados
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>ACP Suite</h3>
+      <p>End-to-end cloud platform for an intercity passenger &amp; parcel transport company. A microservices backend in Go, an admin panel in React, a public website in Next.js, and four Flutter apps (client, ticket office, driver, parcels) — built solo, replacing fully manual operations with a digital system to control operations and finances.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Podman-892CA0?style=flat-square&logo=podman&logoColor=white"/>
+      </p>
+      <p><i>Private repository (client project)</i></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>SoloKey</h3>
+      <p>Zero-trust, offline-first password manager for Android. Military-grade cryptography (Argon2id, AES-256-GCM) secured via the native Android KeyStore, a built-in TOTP (2FA) generator, and a real-time weak password auditing system, all built on Clean Architecture.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+      </p>
+      <p><a href="https://github.com/EzequielAngel0/SoloKey">github.com/EzequielAngel0/SoloKey</a></p>
+    </td>
+  </tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+## Tech Stack & Tools
+
+<div align="center">
+
+<b>Languages</b><br>
+<img src="https://skillicons.dev/icons?i=go,java,ts,python,dart,cs" alt="Languages"/>
+
+<b>Frameworks & Frontend</b><br>
+<img src="https://skillicons.dev/icons?i=spring,dotnet,flutter,react,nextjs,angular,nodejs" alt="Frameworks"/>
+
+<b>Databases</b><br>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,redis" alt="Databases"/>
+
+<b>Cloud, Containers & Tools</b><br>
+<img src="https://skillicons.dev/icons?i=docker,cloudflare,git,github,linux" alt="Tools"/>
 <br>
+<img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="40"/>
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="img/cat-guitar.gif" width="100" alt="Cat playing guitar">
-    </td>
-    <td style="padding-left: 15px;">
-      <h3>About Me</h3>
-      <ul style="list-style-position: inside; padding-left: 1em;">
-        <li>🚀 <b>Software Developer</b> specializing in building scalable, end-to-end technological ecosystems.</li>
-        <li>💻 I build <b>cross-platform apps</b> (Flutter, offline-first) and web interfaces (React, Angular, Next.js).</li>
-        <li>⚙️ Architecting robust <b>backends</b> with Java (Spring Boot), TypeScript, and SQL/NoSQL databases.</li>
-        <li>🛡️ Currently building <b>cybersecurity</b> & network analysis tools (packet sniffing) using Python.</li>
-        <li>🎓 Back-End Graduate from the <b>Oracle Next Education (ONE)</b> program.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+</div>
 
-<br><hr><br>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-<h1 align="center">Hola, soy Ezequiel 👋</h1>
-<h2 align="center">Desarrollador Full Stack & Multiplataforma | Arquitecto Backend | Entusiasta de la Ciberseguridad</h2>
+## GitHub Stats
 
-<br>
+<div align="center">
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="img/cat-cat-meme.gif" width="100" alt="Cat meme typing">
-    </td>
-    <td style="padding-left: 15px;">
-      <h3>Sobre mí</h3>
-      <ul style="list-style-position: inside; padding-left: 1em;">
-        <li>🚀 <b>Desarrollador de Software</b> especializado en construir ecosistemas tecnológicos completos y escalables.</li>
-        <li>💻 Creo <b>aplicaciones multiplataforma</b> (Flutter, offline-first) e interfaces web (React, Angular, Next.js).</li>
-        <li>⚙️ Arquitecto <b>backends</b> robustos con Java (Spring Boot), TypeScript, y bases de datos SQL/NoSQL.</li>
-        <li>🛡️ Actualmente desarrollando herramientas de <b>ciberseguridad</b> y análisis de red con Python.</li>
-        <li>🎓 Graduado de la ruta Back-End del programa <b>Oracle Next Education (ONE)</b>.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=EzequielAngel0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=EzequielAngel0&theme=tokyonight&hide_border=true" alt="Streak"/>
 
-<br><hr><br>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielAngel0&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 
-<h2 align="center">💻 Tech Stack & Tools</h2>
+<img src="https://github-profile-trophy.vercel.app/?username=EzequielAngel0&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <br><br>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <br><br>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
+</div>
 
-<br><hr><br>
+### Contribution Snake
 
-<h2 align="center">📫 Contact Me / Contáctame</h2>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/EzequielAngel0/EzequielAngel0/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+</div>
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="img/kasper-dancing.gif" width="100" alt="Ghost dancing">
-    </td>
-    <td style="padding-left: 15px;">
-      <ul style="list-style-type: none; padding-left: 0;">
-        <li>
-          <a href="https://www.linkedin.com/in/angelezequiel">
-            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-          </a>
-        </li>
-        <li>
-          <a href="https://x.com/Ezequiel27Angel">
-            <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X / Twitter"/>
-          </a>
-        </li>
-        <li>
-          <a href="https://discord.com/users/angelezequiel">
-            <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"/>
-          </a>
-        </li>
-        <li>
-          <a href="mailto:barbosalomeliangelezequiel@gmail.com">
-            <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-          </a>
-        </li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
