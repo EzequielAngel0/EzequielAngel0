@@ -24,14 +24,14 @@
 
 <b>EN</b>
 
-I design, build, and operate complete systems end-to-end — often solo. My flagship work, <b>ACP Suite</b>, runs in production on Oracle Cloud: a Go backend, a React admin panel, a Next.js public site, and four offline-first Flutter apps, provisioned with Terraform/Ansible and shipped through a CI/CD pipeline with security gates. Back-End graduate of Oracle Next Education (ONE), OCI Certified Foundations Associate, and Software Development student at CETI, with a growing focus on cybersecurity and cloud infrastructure.
+I design, build, and operate complete systems end-to-end, often solo. My flagship work, <b>ACP Suite</b>, runs in production on Oracle Cloud: a Go backend, a React admin panel, a Next.js public site, and four offline-first Flutter apps, provisioned with Terraform/Ansible and shipped through a CI/CD pipeline with security gates. Oracle Next Education (ONE) Tech Advanced graduate (Back-End track), OCI Certified Foundations Associate, Google Cloud Cybersecurity certified, and Software Development student at CETI.
 
 </td>
 <td valign="top" width="50%">
 
 <b>ES</b>
 
-Diseño, construyo y opero sistemas completos de punta a punta, frecuentemente en solitario. Mi trabajo insignia, <b>ACP Suite</b>, corre en producción sobre Oracle Cloud: backend en Go, panel admin en React, sitio público en Next.js y cuatro apps Flutter offline-first, aprovisionado con Terraform/Ansible y publicado con un pipeline CI/CD con gates de seguridad. Graduado de la ruta Back-End de Oracle Next Education (ONE), certificado OCI Foundations Associate y estudiante de Desarrollo de Software en el CETI, con enfoque creciente en ciberseguridad e infraestructura en la nube.
+Diseño, construyo y opero sistemas completos de punta a punta, frecuentemente en solitario. Mi trabajo insignia, <b>ACP Suite</b>, corre en producción sobre Oracle Cloud: backend en Go, panel admin en React, sitio público en Next.js y cuatro apps Flutter offline-first, aprovisionado con Terraform/Ansible y publicado con un pipeline CI/CD con gates de seguridad. Graduado del programa Oracle Next Education (ONE), ruta Back-End y nivel Tech Advanced, certificado OCI Foundations Associate y Google Cloud Cybersecurity, y estudiante de Desarrollo de Software en el CETI.
 
 </td>
 </tr>
@@ -45,7 +45,7 @@ Diseño, construyo y opero sistemas completos de punta a punta, frecuentemente e
   <tr>
     <td width="50%" valign="top">
       <h3>ACP Suite &nbsp;<img src="https://img.shields.io/badge/LIVE_IN_PRODUCTION-2EA043?style=flat-square" alt="Live"/></h3>
-      <p>End-to-end ticketing &amp; parcel platform for an intercity bus company, <b>live in production on Oracle Cloud</b> — built solo, replacing fully manual operations. Two Go APIs (RBAC, audited mutations, transactional sales), a React admin panel, a Next.js public site, and four <b>offline-first</b> Flutter apps (ticket office, driver, parcels, customer) sharing in-house design-system, API-client, and ESC/POS thermal-printing packages.</p>
+      <p>End-to-end ticketing &amp; parcel platform for an intercity bus company, <b>live in production on Oracle Cloud</b>. Built solo, replacing fully manual operations: two Go APIs (RBAC, audited mutations, transactional sales), a React admin panel, a Next.js public site, and four <b>offline-first</b> Flutter apps (ticket office, driver, parcels, customer) sharing in-house design-system, API-client, and ESC/POS thermal-printing packages.</p>
       <p>
         <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
@@ -63,14 +63,14 @@ Diseño, construyo y opero sistemas completos de punta a punta, frecuentemente e
         <ul>
           <li>In-house auth built from scratch: JWT (RS256), mandatory TOTP 2FA (RFC 6238), rotated refresh tokens with real session revocation.</li>
           <li>Offline-first field ops: AES-256-GCM encrypted queues, on-device folio generation, offline QR ticket validation (ES256), photo + signature delivery evidence.</li>
-          <li>Pure-Dart ESC/POS printing library — tickets, waybills, shift reports, native QR — over Windows spooler, TCP/IP, and Bluetooth.</li>
+          <li>Pure-Dart ESC/POS printing library (tickets, waybills, shift reports, native QR) over Windows spooler, TCP/IP, and Bluetooth.</li>
           <li>Payments: Stripe, Mercado Pago &amp; PayPal via direct HTTP, webhook-verified confirmation, automatic order expiration, feature-flagged rollout.</li>
           <li>Infra as code: Terraform + Ansible on OCI (4 VMs + load balancer, PostgreSQL primary/replica, PgBouncer, Cloudflare tunnel, hardened nginx).</li>
           <li>CI/CD: multi-arch image builds with a vulnerability gate (Trivy, 0 HIGH/CRIT), SBOM, rolling deploys via self-hosted runner.</li>
           <li>Quality: 150+ automated tests, 40-step API E2E, Playwright UI E2E with real 2FA enrollment, k6 load baseline (public API p95 &lt; 100 ms), PII anonymization (LFPDPPP).</li>
         </ul>
       </details>
-      <p><i>Private repository (client project) — architecture case study available on request.</i></p>
+      <p><i>Private repository (client project). Architecture case study available on request.</i></p>
     </td>
     <td width="50%" valign="top">
       <h3>SoloKey</h3>
@@ -113,24 +113,28 @@ Diseño, construyo y opero sistemas completos de punta a punta, frecuentemente e
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
+## Certifications &nbsp;/&nbsp; Certificaciones
+
+<div align="center">
+
+<a href="https://www.credly.com/badges/6b602da5-95ea-4328-a5dd-03ba538dfbf9/linked_in_profile"><img src="https://img.shields.io/badge/Google_Cloud_Cybersecurity_Certificate-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Cybersecurity Certificate"/></a>
+<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=9E6AA54792091B7F8EAD1C3D4C0E00B4640759558EA9319193256E348344778E"><img src="https://img.shields.io/badge/OCI_2025_Certified_Foundations_Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="OCI Foundations Associate"/></a>
+<a href="https://app.aluracursos.com/program/certificate/8a039e9d-447c-4d64-9a32-40a020f15bf5?lang"><img src="https://img.shields.io/badge/ONE_Tech_Advanced_G9_·_Back--End-2B6FB5?style=for-the-badge&logo=oracle&logoColor=white" alt="ONE Tech Advanced G9 Back-End"/></a>
+
+</div>
+
 ## Currently Learning &nbsp;/&nbsp; Aprendiendo
 
 <table>
 <tr>
 <td valign="top" width="40%">
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/><br>
-  <b>Google Cloud Cybersecurity Certificate</b>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/><br>
+  <b>Python · FastAPI</b>
 </td>
 <td valign="top" width="60%">
-  Deepening cloud security through Google's professional certificate path:
-  <ul>
-    <li>Introduction to Security Principles in Cloud Computing</li>
-    <li>Strategies for Cloud Security Risk Management</li>
-    <li>Cloud Security Risks: Identify and Protect Against Threats</li>
-    <li>Detect, Respond, and Recover from Cloud Cybersecurity Attacks</li>
-    <li>Put It All Together: Prepare for a Cloud Security Analyst Job</li>
-  </ul>
-  Alongside <b>Python (FastAPI)</b> for backend services.
+  Expanding my backend toolbox into the Python ecosystem: REST services with <b>FastAPI</b>, async I/O, and Pydantic, applying the same architecture, testing, and security standards I use in Go.
+  <br><br>
+  <i>Ampliando mi backend al ecosistema Python: servicios REST con FastAPI, async I/O y Pydantic, con los mismos estándares de arquitectura, pruebas y seguridad que uso en Go.</i>
 </td>
 </tr>
 </table>
