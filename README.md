@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2B6FB5&center=true&vCenter=true&width=700&lines=Angel+Ezequiel+Barbosa+Lomeli;Full+Stack+%26+Cross-Platform+Developer;Backend+Architect;Cybersecurity+Enthusiast" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2B6FB5&center=true&vCenter=true&width=700&lines=Angel+Ezequiel+Barbosa+Lomeli;Full+Stack+%26+Cross-Platform+Developer;Go+%7C+Flutter+%7C+React+%7C+OCI;From+first+commit+to+production" alt="Typing SVG"/>
 
 <a href="https://www.linkedin.com/in/angelezequiel"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://ezequielangel0.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-2B6FB5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
@@ -24,14 +24,14 @@
 
 <b>EN</b>
 
-I design and ship scalable, end-to-end technological ecosystems — often solo. I work across the full stack: cross-platform apps with Flutter (offline-first), web interfaces with React, Angular and Next.js, and robust microservices backends in Go and Java (Spring Boot). Back-End graduate of the Oracle Next Education (ONE) program and Software Development student at CETI, with a growing focus on cybersecurity and cloud infrastructure.
+I design, build, and operate complete systems end-to-end — often solo. My flagship work, <b>ACP Suite</b>, runs in production on Oracle Cloud: a Go backend, a React admin panel, a Next.js public site, and four offline-first Flutter apps, provisioned with Terraform/Ansible and shipped through a CI/CD pipeline with security gates. Back-End graduate of Oracle Next Education (ONE), OCI Certified Foundations Associate, and Software Development student at CETI, with a growing focus on cybersecurity and cloud infrastructure.
 
 </td>
 <td valign="top" width="50%">
 
 <b>ES</b>
 
-Diseño y construyo ecosistemas tecnológicos completos y escalables, frecuentemente en solitario. Trabajo en todo el stack: apps multiplataforma con Flutter (offline-first), interfaces web con React, Angular y Next.js, y backends de microservicios robustos en Go y Java (Spring Boot). Graduado de la ruta Back-End del programa Oracle Next Education (ONE) y estudiante de Desarrollo de Software en el CETI, con enfoque creciente en ciberseguridad e infraestructura en la nube.
+Diseño, construyo y opero sistemas completos de punta a punta, frecuentemente en solitario. Mi trabajo insignia, <b>ACP Suite</b>, corre en producción sobre Oracle Cloud: backend en Go, panel admin en React, sitio público en Next.js y cuatro apps Flutter offline-first, aprovisionado con Terraform/Ansible y publicado con un pipeline CI/CD con gates de seguridad. Graduado de la ruta Back-End de Oracle Next Education (ONE), certificado OCI Foundations Associate y estudiante de Desarrollo de Software en el CETI, con enfoque creciente en ciberseguridad e infraestructura en la nube.
 
 </td>
 </tr>
@@ -44,17 +44,33 @@ Diseño y construyo ecosistemas tecnológicos completos y escalables, frecuentem
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>ACP Suite</h3>
-      <p>End-to-end cloud platform for an intercity passenger &amp; parcel transport company. A microservices backend in Go, an admin panel in React, a public website in Next.js, and four Flutter apps (client, ticket office, driver, parcels) — built solo, replacing fully manual operations with a digital system to control operations and finances.</p>
+      <h3>ACP Suite &nbsp;<img src="https://img.shields.io/badge/LIVE_IN_PRODUCTION-2EA043?style=flat-square" alt="Live"/></h3>
+      <p>End-to-end ticketing &amp; parcel platform for an intercity bus company, <b>live in production on Oracle Cloud</b> — built solo, replacing fully manual operations. Two Go APIs (RBAC, audited mutations, transactional sales), a React admin panel, a Next.js public site, and four <b>offline-first</b> Flutter apps (ticket office, driver, parcels, customer) sharing in-house design-system, API-client, and ESC/POS thermal-printing packages.</p>
       <p>
         <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white"/>
         <img src="https://img.shields.io/badge/Podman-892CA0?style=flat-square&logo=podman&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white"/>
       </p>
-      <p><i>Private repository (client project)</i></p>
+      <details>
+        <summary><b>Architecture highlights / Detalles técnicos</b></summary>
+        <ul>
+          <li>In-house auth built from scratch: JWT (RS256), mandatory TOTP 2FA (RFC 6238), rotated refresh tokens with real session revocation.</li>
+          <li>Offline-first field ops: AES-256-GCM encrypted queues, on-device folio generation, offline QR ticket validation (ES256), photo + signature delivery evidence.</li>
+          <li>Pure-Dart ESC/POS printing library — tickets, waybills, shift reports, native QR — over Windows spooler, TCP/IP, and Bluetooth.</li>
+          <li>Payments: Stripe, Mercado Pago &amp; PayPal via direct HTTP, webhook-verified confirmation, automatic order expiration, feature-flagged rollout.</li>
+          <li>Infra as code: Terraform + Ansible on OCI (4 VMs + load balancer, PostgreSQL primary/replica, PgBouncer, Cloudflare tunnel, hardened nginx).</li>
+          <li>CI/CD: multi-arch image builds with a vulnerability gate (Trivy, 0 HIGH/CRIT), SBOM, rolling deploys via self-hosted runner.</li>
+          <li>Quality: 150+ automated tests, 40-step API E2E, Playwright UI E2E with real 2FA enrollment, k6 load baseline (public API p95 &lt; 100 ms), PII anonymization (LFPDPPP).</li>
+        </ul>
+      </details>
+      <p><i>Private repository (client project) — architecture case study available on request.</i></p>
     </td>
     <td width="50%" valign="top">
       <h3>SoloKey</h3>
@@ -77,19 +93,21 @@ Diseño y construyo ecosistemas tecnológicos completos y escalables, frecuentem
 <div align="center">
 
 <b>Languages</b><br>
-<img src="https://skillicons.dev/icons?i=go,java,ts,python,dart,cs" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=go,dart,ts,java,python,cs" alt="Languages"/>
 
 <b>Frameworks & Frontend</b><br>
-<img src="https://skillicons.dev/icons?i=spring,dotnet,flutter,react,nextjs,angular,nodejs" alt="Frameworks"/>
+<img src="https://skillicons.dev/icons?i=flutter,react,nextjs,spring,angular,dotnet,nodejs" alt="Frameworks"/>
 
 <b>Databases</b><br>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,redis" alt="Databases"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb" alt="Databases"/>
 
-<b>Cloud, Containers & Tools</b><br>
-<img src="https://skillicons.dev/icons?i=docker,cloudflare,git,github,linux" alt="Tools"/>
+<b>Cloud, DevOps & Tools</b><br>
+<img src="https://skillicons.dev/icons?i=terraform,ansible,docker,githubactions,nginx,cloudflare,git,github,linux" alt="Tools"/>
 <br>
 <img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white" height="40"/>
 <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white" height="40"/>
 
 </div>
 
@@ -101,7 +119,7 @@ Diseño y construyo ecosistemas tecnológicos completos y escalables, frecuentem
 <tr>
 <td valign="top" width="40%">
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/><br>
-  <b>Beginner: Google Cloud Cybersecurity Certificate</b>
+  <b>Google Cloud Cybersecurity Certificate</b>
 </td>
 <td valign="top" width="60%">
   Deepening cloud security through Google's professional certificate path:
@@ -112,7 +130,7 @@ Diseño y construyo ecosistemas tecnológicos completos y escalables, frecuentem
     <li>Detect, Respond, and Recover from Cloud Cybersecurity Attacks</li>
     <li>Put It All Together: Prepare for a Cloud Security Analyst Job</li>
   </ul>
-  Alongside <b>Python (FastAPI)</b> for backend microservices.
+  Alongside <b>Python (FastAPI)</b> for backend services.
 </td>
 </tr>
 </table>
