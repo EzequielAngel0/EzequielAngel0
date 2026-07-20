@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2B6FB5&center=true&vCenter=true&width=700&lines=Angel+Ezequiel+Barbosa+Lomeli;Full+Stack+%26+Cross-Platform+Developer;Go+%7C+Flutter+%7C+React+%7C+OCI;From+first+commit+to+production" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2B6FB5&center=true&vCenter=true&width=760&lines=Angel+Ezequiel+Barbosa+Lomeli;Full+Stack+%26+Cross-Platform+Developer;Go+%7C+Flutter+%7C+React+%7C+OCI;Security-minded%3A+I+secure+what+I+ship;From+first+commit+to+production" alt="Typing SVG"/>
 
 <a href="https://www.linkedin.com/in/angelezequiel"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://ezequielangel0.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-2B6FB5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="https://portfolio.angelezequiel.dev"><img src="https://img.shields.io/badge/Portfolio-2B6FB5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 <a href="mailto:angelbarbosa@angelezequiel.dev"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://x.com/Ezequiel27Angel"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
 
@@ -12,9 +12,13 @@
 <img src="https://img.shields.io/badge/Open_to_Work-2EA043?style=for-the-badge&logo=briefcase&logoColor=white" alt="Open to Work"/>
 <img src="https://komarev.com/ghpvc/?username=EzequielAngel0&style=flat-square&color=2b6fb5" alt="Profile views"/>
 
+<br><br>
+
+<sub><b>// now</b> &nbsp;·&nbsp; Cisco Junior Cybersecurity Analyst + Ethical Hacker &nbsp;·&nbsp; PortSwigger Web Security Academy &nbsp;·&nbsp; hardening my own production stack</sub>
+
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+---
 
 ## About Me &nbsp;/&nbsp; Sobre mí
 
@@ -24,27 +28,27 @@
 
 <b>EN</b>
 
-I design, build, and operate complete systems end-to-end, often solo. My flagship work, <b>ACP Suite</b>, runs in production on Oracle Cloud: a Go backend, a React admin panel, a Next.js public site, and four offline-first Flutter apps, provisioned with Terraform/Ansible and shipped through a CI/CD pipeline with security gates. Oracle Next Education (ONE) Tech Advanced graduate (Back-End track), OCI Certified Foundations Associate, Google Cloud Cybersecurity certified, and Software Development student at CETI.
+I design, build, and operate complete systems end-to-end, often solo, and I build them to be attacked. My flagship work, <b>ACP</b>, runs in production on Oracle Cloud: a Go backend, a React admin panel, a Next.js public site, and four offline-first Flutter apps, provisioned with Terraform/Ansible and shipped through a CI/CD pipeline with security gates. I am now deepening application security to audit and defend what I ship. Oracle Next Education (ONE) Tech Advanced graduate (Back-End track), OCI Certified Foundations Associate, Google Cloud Cybersecurity certified, and Software Development student at CETI.
 
 </td>
 <td valign="top" width="50%">
 
 <b>ES</b>
 
-Diseño, construyo y opero sistemas completos de punta a punta, frecuentemente en solitario. Mi trabajo insignia, <b>ACP Suite</b>, corre en producción sobre Oracle Cloud: backend en Go, panel admin en React, sitio público en Next.js y cuatro apps Flutter offline-first, aprovisionado con Terraform/Ansible y publicado con un pipeline CI/CD con gates de seguridad. Graduado del programa Oracle Next Education (ONE), ruta Back-End y nivel Tech Advanced, certificado OCI Foundations Associate y Google Cloud Cybersecurity, y estudiante de Desarrollo de Software en el CETI.
+Diseño, construyo y opero sistemas completos de punta a punta, frecuentemente en solitario, y los construyo pensando en que serán atacados. Mi trabajo insignia, <b>ACP</b>, corre en producción sobre Oracle Cloud: backend en Go, panel admin en React, sitio público en Next.js y cuatro apps Flutter offline-first, aprovisionado con Terraform/Ansible y publicado con un pipeline CI/CD con gates de seguridad. Ahora profundizo en seguridad de aplicaciones para auditar y defender lo que construyo. Graduado del programa Oracle Next Education (ONE), ruta Back-End y nivel Tech Advanced, certificado OCI Foundations Associate y Google Cloud Cybersecurity, y estudiante de Desarrollo de Software en el CETI.
 
 </td>
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+---
 
 ## Featured Projects &nbsp;/&nbsp; Proyectos Destacados
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>ACP Suite &nbsp;<img src="https://img.shields.io/badge/LIVE_IN_PRODUCTION-2EA043?style=flat-square" alt="Live"/></h3>
+    <td valign="top">
+      <h3>ACP &nbsp;<img src="https://img.shields.io/badge/LIVE_IN_PRODUCTION-2EA043?style=flat-square" alt="Live"/></h3>
       <p>End-to-end ticketing &amp; parcel platform for an intercity bus company, <b>live in production on Oracle Cloud</b>. Built solo, replacing fully manual operations: two Go APIs (RBAC, audited mutations, transactional sales), a React admin panel, a Next.js public site, and four <b>offline-first</b> Flutter apps (ticket office, driver, parcels, customer) sharing in-house design-system, API-client, and ESC/POS thermal-printing packages.</p>
       <p>
         <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
@@ -54,8 +58,6 @@ Diseño, construyo y opero sistemas completos de punta a punta, frecuentemente e
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
         <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
         <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Podman-892CA0?style=flat-square&logo=podman&logoColor=white"/>
-        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
         <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white"/>
       </p>
       <details>
@@ -72,21 +74,41 @@ Diseño, construyo y opero sistemas completos de punta a punta, frecuentemente e
       </details>
       <p><i>Private repository (client project). Architecture case study available on request.</i></p>
     </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>DocuAgent &nbsp;<img src="https://img.shields.io/badge/LIVE_+_DEMO-2EA043?style=flat-square" alt="Live"/></h3>
+      <p>RAG-powered AI agent for querying a company's internal documentation. A LangGraph pipeline (Cohere Embed v3 + Rerank over Qdrant) returns source-cited answers with an anti-hallucination validator; multilingual chat (ES/EN/PT) streamed over WebSocket. <b>Live in production on Oracle Cloud with a public demo</b>. Admin behind Cloudflare Turnstile + TOTP; the VM exposes no ports (Cloudflare Tunnel only).</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+      </p>
+      <p>
+        <a href="https://github.com/EzequielAngel0/DocuAgent">Repo</a> &nbsp;·&nbsp;
+        <a href="https://docuagent.angelezequiel.dev">Live demo</a>
+      </p>
+    </td>
     <td width="50%" valign="top">
       <h3>SoloKey</h3>
-      <p>Zero-trust, offline-first password manager for Android. Military-grade cryptography (Argon2id, AES-256-GCM) secured via the native Android KeyStore, a built-in TOTP (2FA) generator, and a real-time weak password auditing system, all built on Clean Architecture.</p>
+      <p>Local-first, cross-platform password manager: an <b>Android app + a Windows desktop companion</b> sharing one encrypted vault. Optional sync is peer-to-peer and end-to-end encrypted over the LAN (X25519 pairing, AES-256-GCM), no cloud. Argon2id + AES-256-GCM, built-in TOTP, weak/reused/breached auditing (HaveIBeenPwned k-anonymity), and 510 automated tests with a CI coverage floor.</p>
       <p>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
         <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
-        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
         <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white"/>
       </p>
       <p><a href="https://github.com/EzequielAngel0/SoloKey">github.com/EzequielAngel0/SoloKey</a></p>
     </td>
   </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+---
 
 ## Tech Stack & Tools
 
@@ -111,7 +133,7 @@ Diseño, construyo y opero sistemas completos de punta a punta, frecuentemente e
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+---
 
 ## Certifications &nbsp;/&nbsp; Certificaciones
 
@@ -123,41 +145,53 @@ Diseño, construyo y opero sistemas completos de punta a punta, frecuentemente e
 
 </div>
 
+---
+
 ## Currently Learning &nbsp;/&nbsp; Aprendiendo
 
 <table>
+<tr>
+<td valign="top" width="40%">
+  <img src="https://img.shields.io/badge/Offensive_Security-111827?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/><br>
+  <b>AppSec & Ethical Hacking</b>
+</td>
+<td valign="top" width="60%">
+  Adding an attacker's perspective to defend what I build. Enrolled in Cisco's <b>Junior Cybersecurity Analyst</b> career path and <b>Ethical Hacker</b> course, plus the <b>PortSwigger Web Security Academy</b>, with hands-on labs on TryHackMe and Hack The Box. Focus: web &amp; API security (OWASP, injection, SSRF, auth flaws) applied to my own production systems.
+  <br><br>
+  <i>Sumando la perspectiva del atacante para defender lo que construyo. Inscrito en la ruta de Analista Junior en Ciberseguridad y el curso Ethical Hacker de Cisco, más la PortSwigger Web Security Academy, con laboratorios en TryHackMe y Hack The Box. Enfoque: seguridad web y de APIs (OWASP, inyección, SSRF, fallos de autenticación) aplicada a mis propios sistemas en producción.</i>
+  <br><br>
+  <sub><b>exploring:</b></sub>
+  <img src="https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white"/>
+</td>
+</tr>
 <tr>
 <td valign="top" width="40%">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/><br>
   <b>Python · FastAPI</b>
 </td>
 <td valign="top" width="60%">
-  Expanding my backend toolbox into the Python ecosystem: REST services with <b>FastAPI</b>, async I/O, and Pydantic, applying the same architecture, testing, and security standards I use in Go.
+  Expanding my backend toolbox into the Python ecosystem: REST services with <b>FastAPI</b>, async I/O, and Pydantic, applying the same architecture, testing, and security standards I use in Go. Already shipped in DocuAgent.
   <br><br>
-  <i>Ampliando mi backend al ecosistema Python: servicios REST con FastAPI, async I/O y Pydantic, con los mismos estándares de arquitectura, pruebas y seguridad que uso en Go.</i>
+  <i>Ampliando mi backend al ecosistema Python: servicios REST con FastAPI, async I/O y Pydantic, con los mismos estándares de arquitectura, pruebas y seguridad que uso en Go. Ya en producción en DocuAgent.</i>
 </td>
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+---
 
 ## GitHub Stats
 
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=EzequielAngel0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=EzequielAngel0&theme=tokyonight&hide_border=true" alt="Streak"/>
-
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielAngel0&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=EzequielAngel0&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies"/>
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=EzequielAngel0&bg_color=1a1b27&color=c9d1d9&line=2b6fb5&point=ffffff&area=true&area_color=2b6fb5&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Activity Graph" width="100%"/>
 
 </div>
-
-### Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/EzequielAngel0/EzequielAngel0/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
